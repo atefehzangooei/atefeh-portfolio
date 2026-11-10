@@ -36,7 +36,7 @@ Quotesa با هدف فراهم کردن ابزاری ساده و قدرتمند 
 ## پیش‌نمایش صفحات اپلیکیشن
 
 
-<table>
+<table border="0" cellspacing="12" cellpadding="0">
   <tr>
     <td align="center">
       <b>Home</b>
@@ -47,13 +47,7 @@ Quotesa با هدف فراهم کردن ابزاری ساده و قدرتمند 
     <td align="center">
       <b>Quoted Creator</b>
     </td>
-    <td align="center">
-      <b>Login</b>
-    </td>
-    <td align="center">
-      <b>Profile Screen</b>
-    </td>
-  </tr>
+  
   <tr>
     <td width="33%">
       <img src="screenshots/main.jpg" width="100%">
@@ -66,6 +60,15 @@ Quotesa با هدف فراهم کردن ابزاری ساده و قدرتمند 
     </td>
   </tr>
 
+  <tr>
+    <td align="center">
+      <b>Login</b>
+    </td>
+    <td align="center">
+      <b>Profile Screen</b>
+    </td>
+  </tr>
+  
   <tr>
       <td width="33%">
       <img src="screenshots/login.jpg" width="100%">
@@ -83,25 +86,6 @@ Quotesa با هدف فراهم کردن ابزاری ساده و قدرتمند 
 این پروژه به‌صورت فول‌استک توسعه داده شده و شامل اپلیکیشن بومی Android، بک‌اند مبتنی بر Laravel و پایگاه داده MySQL است.
 
 ---
-
-## 📱 Screenshots
-
-### Home
-صفحه اصلی شامل مجموعه نقل‌قول‌ها، دسته‌بندی‌ها و مطالب محبوب.
-
-![Home Screen](screenshots/01-home.png)
-
-### Categories
-![Categories Screen](screenshots/02-categories.png)
-
-### Quote Details
-![Quote Details](screenshots/03-quote-details.png)
-
-### Quote Creator
-![Quote Creator](screenshots/04-quote-creator.png)
-
-### Profile
-![Profile Screen](screenshots/05-profile.png)
 
 ---
 
@@ -246,13 +230,3 @@ Quotesa با هدف فراهم کردن ابزاری ساده و قدرتمند 
 | Backend Framework | Laravel |
 | Database | MySQL |
 | Developer Role | Full-Stack Android Developer |
-
-### ورود و ثبت‌نام
-
-<img src="screenshots/login.jpg" alt="صفحه ورود و ثبت‌نام" width="270">
-
-ورود با ایمیل و رمز عبور و فرایند ثبت‌نام کاربر جدید.
-
-</div>
-
-## تکنولوژی‌ها و ابزارها
