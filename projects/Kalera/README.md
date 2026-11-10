@@ -40,7 +40,7 @@
 نمای کلی وضعیت تغذیه روزانه، کالری مصرف‌شده و باقی‌مانده و میزان دریافت درشت‌مغذی‌ها.
 
 <div align="center">
-<img src="screenshots/dashboard.png" width="280" alt="داشبورد کالرا"/>
+<img src="screenshots/dashboard.jpg" width="280" alt="داشبورد کالرا"/>
 </div>
 
 ### چی بخورم؟
@@ -48,10 +48,31 @@
 پیشنهاد غذا و رسپی‌های هوشمند متناسب با اهداف تغذیه‌ای و نیاز روزانه کاربر.
 
 <div align="center">
-<img src="screenshots/chibokhoram.png" width="280" alt="بخش چی بخورم کالرا"/>
+<img src="screenshots/chibokhoram.jpg" width="280" alt="بخش چی بخورم کالرا"/>
 </div>
 
 
+### ورود با شماره موبایل و ارسال کد تایید
+
+ورود کاربر با شماره موبایل و ارسال کد تایید
+<div align="center">
+<img src="screenshots/login.jpg" width="280" alt="بخش چی بخورم کالرا"/>
+</div>
+
+<div align="center">
+<img src="screenshots/otp.jpg" width="280" alt="بخش چی بخورم کالرا"/>
+</div>
+
+### نمایی از صفحات OnBoarding
+
+صفحات OnBoarding شامل 12 کرحله ایت که اطلاعات کاربر رو دریافت کرده و سپس یک برنامه غذایی شخصی شده به او پیشنهاد دمی دهد
+<div align="center">
+<img src="screenshots/onboarding1.jpg" width="280" alt="بخش چی بخورم کالرا"/>
+</div>
+
+<div align="center">
+<img src="screenshots/onboarding2.jpg" width="280" alt="بخش چی بخورم کالرا"/>
+</div>
 ---
 
 ## امکانات و قابلیت‌ها
