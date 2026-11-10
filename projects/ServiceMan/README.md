@@ -1,6 +1,6 @@
 <div dir="rtl" align="center">
 
-  <img src="logo.png" alt="لوگوی سرویس من" width="180"/>
+  <img src="icon.png" alt="لوگوی سرویس من" width="180"/>
 
   <h1>سرویس من</h1>
 
