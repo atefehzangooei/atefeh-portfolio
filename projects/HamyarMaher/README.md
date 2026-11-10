@@ -1,6 +1,6 @@
 <div dir="rtl" align="center">
 
-<img src="logo.png" width="130" alt="لوگوی همیار ماهر">
+<img src="icon.png" width="130" alt="لوگوی همیار ماهر">
 
 # همیار ماهر
 
