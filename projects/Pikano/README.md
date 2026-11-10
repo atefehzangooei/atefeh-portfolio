@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="logo.png" width="190" alt="Nimdari Logo"/>
+<img src="logo.png" width="150" alt="Nimdari Logo"/>
 
 
 # گام به گام پیکانو
