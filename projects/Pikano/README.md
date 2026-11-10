@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="cover.png" alt="پیکانو - گام به گام" width="100%">
+<img src="logo.png" alt="پیکانو - گام به گام" width="100%">
 
 # گام به گام پیکانو
 
