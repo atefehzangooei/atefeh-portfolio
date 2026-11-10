@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="logo.png" width="150" alt="Nimdari Logo"/>
+<img src="logo.png" width="100" alt="Nimdari Logo"/>
 
 
 # گام به گام پیکانو
@@ -32,48 +32,32 @@
 - نمایش تبلیغات درون‌برنامه‌ای
 
 ## پیش‌نمایش صفحات اپلیکیشن
+.<table border="0" cellspacing="12" cellpadding="0">
+  <tr>
+    <td width="33%">
+      <img src="screenshots/splash.png" width="100%" alt="صفحه اول">
+    </td>
+    <td width="33%">
+      <img src="screenshots/rols.png" width="100%" alt="صفحه دوم">
+    </td>
+    <td width="33%">
+      <img src="screenshots/select_rols.png" width="100%" alt="صفحه سوم">
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <img src="screenshots/game.png" width="100%" alt="صفحه چهارم">
+    </td>
+    <td width="33%">
+      <img src="screenshots/select_person.png" width="100%" alt="صفحه پنجم">
+    </td>
+    <td width="33%">
+      <img src="screenshots/login.png" width="100%" alt="صفحه ششم">
+    </td>
+  </tr>
+</table>
 
-صفحات زیر بر اساس ساختار `XML Layout`ها و منابع گرافیکی موجود در سورس پروژه بازسازی شده‌اند. تصاویر، اسکرین‌شات مستقیم از اجرای اپلیکیشن نیستند؛ چون در فایل ارسالی تصویر ثبت‌شده از اجرای برنامه وجود نداشت. نام برخی کتاب‌ها و فصل‌ها نیز برای نمایش چیدمان، داده نمونه است.
 
-<div align="center">
-
-### صفحه اصلی
-
-<img src="screenshots/01-home.png" alt="صفحه اصلی پیکانو" width="270">
-
-صفحه اصلی با دسترسی مستقیم به حل تمرین، نمونه سؤالات و جزوات.
-
-### فهرست کتاب‌ها
-
-<img src="screenshots/02-books.png" alt="فهرست کتاب‌های درسی" width="270">
-
-انتخاب پایه تحصیلی و مشاهده کتاب‌های مربوط به آن.
-
-### جزئیات کتاب و محتوای آموزشی
-
-<img src="screenshots/03-book-details.png" alt="جزئیات کتاب و محتوای آموزشی" width="270">
-
-دسته‌بندی محتوای هر کتاب در بخش‌های حل تمرین، نمونه سؤالات و جزوات.
-
-### حساب کاربری
-
-<img src="screenshots/04-account.png" alt="حساب کاربری" width="270">
-
-نمایش و مدیریت اطلاعات کاربر و وضعیت اشتراک ویژه.
-
-### اشتراک ویژه
-
-<img src="screenshots/05-premium.png" alt="صفحه اشتراک ویژه" width="270">
-
-معرفی امکانات اشتراک و دسترسی به محتوای ویژه.
-
-### ورود با شماره موبایل
-
-<img src="screenshots/06-login.png" alt="صفحه ورود با شماره موبایل" width="270">
-
-ورود و شروع فرایند احراز هویت پیامکی.
-
-</div>
 
 ## تکنولوژی‌ها و ابزارها
 
