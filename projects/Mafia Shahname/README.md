@@ -1,7 +1,7 @@
 
 <div dir="rtl" align="center">
 
-<img src="logo.png" width="150" height="150" alt="شاهنامه مافیا">
+<img src="icon.png" width="150" height="150" alt="شاهنامه مافیا">
 
 # شاهنامه مافیا | Shahnameh Mafia
 
@@ -30,7 +30,7 @@
       <img src="screenshots/rols.png" width="100%" alt="صفحه دوم">
     </td>
     <td width="33%">
-      <img src="screenshots/select_rols-03.png" width="100%" alt="صفحه سوم">
+      <img src="screenshots/select_rols.png" width="100%" alt="صفحه سوم">
     </td>
   </tr>
   <tr>
@@ -60,6 +60,10 @@
 - بخش قوانین و راهنمای بازی
 - امکان ثبت و مدیریت یادداشت‌ها
 - سیستم پیام‌رسانی و ارتباط با کاربران
+- نمایش تبلیغات بنری با استفاده از سرویس Tapsell Plus
+- نمایش تبلیغات ویدئویی جایزه‌دار (Rewarded Video Ads)
+- مدیریت درخواست و نمایش تبلیغات با استفاده از Callbackها
+- امکان دریافت رویدادهای نمایش، بسته‌شدن و دریافت پاداش تبلیغات ویدئویی
 
 ## 🛠 تکنولوژی‌ها و ابزارهای توسعه
 
@@ -73,7 +77,12 @@
 - Gson
 - Glide
 - Picasso
-
+- 
+### Advertising & Monetization
+- Tapsell Plus SDK 2.1.0
+- Banner Ads
+- Rewarded Video Ads
+- 
 ### Backend Development
 - PHP
 - Laravel
@@ -102,6 +111,7 @@
 - پیاده‌سازی قابلیت‌ها و منطق سمت کاربر
 - اتصال اپلیکیشن به APIهای Backend
 - مدیریت درخواست‌ها و پاسخ‌های سرور
+- - یکپارچه‌سازی سرویس تبلیغاتی Tapsell Plus و پیاده‌سازی سیستم نمایش تبلیغات بنری و ویدئویی جایزه‌دار
 
 **Backend Development**
 - طراحی و توسعه Backend با PHP و Laravel
