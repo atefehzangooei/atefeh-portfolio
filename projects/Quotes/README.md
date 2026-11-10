@@ -56,7 +56,7 @@ Quotesa با هدف فراهم کردن ابزاری ساده و قدرتمند 
       <img src="screenshots/categories.jpg" width="100%">
     </td>
     <td width="33%">
-      <img src="screenshots/craete.jpg" width="100%">
+      <img src="screenshots/create.jpg" width="100%">
     </td>
   </tr>
 
