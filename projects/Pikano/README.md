@@ -49,10 +49,10 @@
       <img src="screenshots/04-account.png" width="100%" alt="صفحه چهارم">
     </td>
     <td width="33%">
-      <img src="screenshots/05-login.png" width="100%" alt="صفحه پنجم">
+      <img src="screenshots/06-login.png" width="100%" alt="صفحه پنجم">
     </td>
     <td width="33%">
-      <img src="screenshots/06-premium.png" width="100%" alt="صفحه ششم">
+      <img src="screenshots/05-premium.png" width="100%" alt="صفحه ششم">
     </td>
   </tr>
 </table>
