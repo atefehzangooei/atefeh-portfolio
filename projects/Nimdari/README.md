@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="logo.png" width="190" alt="Nimdari Logo"/>
+<img src="icon_home.png" width="190" alt="Nimdari Logo"/>
 
 # NIMDARI
 ### پلتفرم آنلاین ثبت و مدیریت آگهی
