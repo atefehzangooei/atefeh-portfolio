@@ -36,33 +36,45 @@ Quotesa با هدف فراهم کردن ابزاری ساده و قدرتمند 
 ## پیش‌نمایش صفحات اپلیکیشن
 
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <b>Home</b>
+    </td>
+    <td align="center">
+      <b>Categories</b>
+    </td>
+    <td align="center">
+      <b>Quoted Creator</b>
+    </td>
+    <td align="center">
+      <b>Login</b>
+    </td>
+    <td align="center">
+      <b>Profile Screen</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <img src="screenshots/main.jpg" width="100%">
+    </td>
+    <td width="33%">
+      <img src="screenshots/categories.jpg" width="100%">
+    </td>
+    <td width="33%">
+      <img src="screenshots/craete.jpg" width="100%">
+    </td>
+  </tr>
 
-### صفحه اصلی
-
-<img src="screenshots/main.jpg" alt="صفحه اصلی Quotesa" width="270">
-
-صفحه اصلی با نمایش دسته‌بندی‌ها، نقل‌قول‌های ترند و دسترسی سریع به ساخت نقل‌قول.
-
-### دسته‌بندی‌ها
-
-<img src="screenshots/categories.jpg" alt="فهرست دسته‌بندی‌ها" width="270">
-
-انتخاب دسته‌بندی و مشاهده نقل‌قول‌های مرتبط با هر دسته.
-
-### ساخت نقل‌قول
-
-<img src="screenshots/create.jpg" alt="صفحه ساخت نقل‌قول" width="270">
-
-ابزارهای ویرایش متن، فونت، رنگ، افکت و تراز برای ساخت نقل‌قول تصویری.
-
-### پروفایل کاربری
-
-<img src="screenshots/profile.jpg" alt="پروفایل کاربری" width="270">
-
-مشاهده و ویرایش اطلاعات حساب کاربری و نقل‌قول‌های ارسال‌شده.
-
-![Quotes Logo](assets/logo.png)
+  <tr>
+      <td width="33%">
+      <img src="screenshots/login.jpg" width="100%">
+    </td>
+      <td width="33%">
+      <img src="screenshots/profile.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
 # Quotes | Quote & Image Creator
 
