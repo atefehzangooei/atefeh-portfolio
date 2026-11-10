@@ -34,46 +34,31 @@
 توسعه کامل اپلیکیشن اندروید و بک‌اند پروژه به‌صورت مستقل انجام شده است.
 
 ## 📱 تصاویر اپلیکیشن
+<table border="0" cellspacing="12" cellpadding="0">
+  <tr>
+    <td width="33%">
+      <img src="screenshots/image1.png" width="100%" alt="صفحه اول">
+    </td>
+    <td width="33%">
+      <img src="screenshots/image2.png" width="100%" alt="صفحه دوم">
+    </td>
+    <td width="33%">
+      <img src="screenshots/image3.png" width="100%" alt="صفحه سوم">
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <img src="screenshots/image4.png" width="100%" alt="صفحه چهارم">
+    </td>
+    <td width="33%">
+      <img src="screenshots/image5.png" width="100%" alt="صفحه پنجم">
+    </td>
+    <td width="33%">
+      <img src="screenshots/image6.png" width="100%" alt="صفحه ششم">
+    </td>
+  </tr>
+</table>
 
-### داشبورد
-
-نمای کلی وضعیت تغذیه روزانه، کالری مصرف‌شده و باقی‌مانده و میزان دریافت درشت‌مغذی‌ها.
-
-<div align="center">
-<img src="screenshots/dashboard.JPG" width="280" alt="داشبورد کالرا"/>
-</div>
-
-### چی بخورم؟
-
-پیشنهاد غذا و رسپی‌های هوشمند متناسب با اهداف تغذیه‌ای و نیاز روزانه کاربر.
-
-<div align="center">
-<img src="screenshots/chibokhoram.JPG" width="280" alt="بخش چی بخورم کالرا"/>
-</div>
-
-
-### ورود با شماره موبایل و ارسال کد تایید
-
-ورود کاربر با شماره موبایل و ارسال کد تایید
-<div align="center">
-<img src="screenshots/login.JPG" width="280" alt="بخش چی بخورم کالرا"/>
-</div>
-
-<div align="center">
-<img src="screenshots/otp.JPG" width="280" alt="بخش چی بخورم کالرا"/>
-</div>
-
-### نمایی از صفحات OnBoarding
-
-صفحات OnBoarding شامل 12 مرحله است که اطلاعات کاربر را دریافت کرده و سپس یک برنامه غذایی شخصی شده به او پیشنهاد می دهد
-<div align="center">
-<img src="screenshots/onboarding1.JPG" width="280" alt="بخش چی بخورم کالرا"/>
-</div>
-
-<div align="center">
-<img src="screenshots/onboarding2.JPG" width="280" alt="بخش چی بخورم کالرا"/>
-</div>
----
 
 ## امکانات و قابلیت‌ها
 
