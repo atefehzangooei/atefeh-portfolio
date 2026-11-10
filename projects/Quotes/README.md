@@ -40,37 +40,31 @@ Quotesa با هدف فراهم کردن ابزاری ساده و قدرتمند 
 
 ### صفحه اصلی
 
-<img src="screenshots/01-home.png" alt="صفحه اصلی Quotesa" width="270">
+<img src="screenshots/main.png" alt="صفحه اصلی Quotesa" width="270">
 
 صفحه اصلی با نمایش دسته‌بندی‌ها، نقل‌قول‌های ترند و دسترسی سریع به ساخت نقل‌قول.
 
 ### دسته‌بندی‌ها
 
-<img src="screenshots/02-categories.png" alt="فهرست دسته‌بندی‌ها" width="270">
+<img src="screenshots/categories.png" alt="فهرست دسته‌بندی‌ها" width="270">
 
 انتخاب دسته‌بندی و مشاهده نقل‌قول‌های مرتبط با هر دسته.
 
 ### ساخت نقل‌قول
 
-<img src="screenshots/03-create-quote.png" alt="صفحه ساخت نقل‌قول" width="270">
+<img src="screenshots/create.png" alt="صفحه ساخت نقل‌قول" width="270">
 
 ابزارهای ویرایش متن، فونت، رنگ، افکت و تراز برای ساخت نقل‌قول تصویری.
 
-### آرشیو شخصی
-
-<img src="screenshots/04-archive.png" alt="آرشیو شخصی" width="270">
-
-نمایش و مدیریت نقل‌قول‌های ذخیره‌شده توسط کاربر.
-
 ### پروفایل کاربری
 
-<img src="screenshots/05-profile.png" alt="پروفایل کاربری" width="270">
+<img src="screenshots/profile.png" alt="پروفایل کاربری" width="270">
 
 مشاهده و ویرایش اطلاعات حساب کاربری و نقل‌قول‌های ارسال‌شده.
 
 ### ورود و ثبت‌نام
 
-<img src="screenshots/06-auth.png" alt="صفحه ورود و ثبت‌نام" width="270">
+<img src="screenshots/login.png" alt="صفحه ورود و ثبت‌نام" width="270">
 
 ورود با ایمیل و رمز عبور و فرایند ثبت‌نام کاربر جدید.
 
