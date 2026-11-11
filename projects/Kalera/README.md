@@ -37,24 +37,24 @@
 <table border="0" cellspacing="12" cellpadding="0">
   <tr>
     <td width="33%">
-      <img src="screenshots/image1.png" width="100%" alt="صفحه اول">
+      <img src="screenshots/image1.png" width="100%" height="450" alt="صفحه اول">
     </td>
     <td width="33%">
-      <img src="screenshots/image2.png" width="100%" alt="صفحه دوم">
+      <img src="screenshots/image2.png" width="100%"  height="450" alt="صفحه دوم">
     </td>
     <td width="33%">
-      <img src="screenshots/image3.png" width="100%" alt="صفحه سوم">
+      <img src="screenshots/image3.png" width="100%"  height="450" alt="صفحه سوم">
     </td>
   </tr>
   <tr>
     <td width="33%">
-      <img src="screenshots/image4.png" width="100%" alt="صفحه چهارم">
+      <img src="screenshots/image4.png" width="100%" height="450"  alt="صفحه چهارم">
     </td>
     <td width="33%">
-      <img src="screenshots/image5.png" width="100%" alt="صفحه پنجم">
+      <img src="screenshots/image5.png" width="100%"  height="450" alt="صفحه پنجم">
     </td>
     <td width="33%">
-      <img src="screenshots/image6.png" width="100%" alt="صفحه ششم">
+      <img src="screenshots/image6.png" width="100%"  height="450" alt="صفحه ششم">
     </td>
   </tr>
 </table>
