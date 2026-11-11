@@ -34,7 +34,7 @@
 توسعه کامل اپلیکیشن اندروید و بک‌اند پروژه به‌صورت مستقل انجام شده است.
 
 ## 📱 تصاویر اپلیکیشن
-<table border="0" cellspacing="12" cellpadding="0">
+<table border="0" cellspacing="12" cellpadding="0" width="100%">
   <tr>
     <td width="33%">
       <img src="screenshots/image1.png" width="100%" height="450" alt="صفحه اول">
